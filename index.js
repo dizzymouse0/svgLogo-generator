@@ -52,8 +52,10 @@ function promptUser() {
                 choices: ["circle", "triangle", "square"],
             },
             {
-                
-            }
+                name: "shapeColor",
+                message: "Enter shape color:",
+            },
             
         ])
+        .then((answers))
 }
