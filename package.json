@@ -1,0 +1,7 @@
+{
+    "name": "svg-logo-generator",
+    "version": "1.0.0",
+    "description": "SVG logo generator",
+    "main": "index.js",
+    "scripts": {}
+}
