@@ -57,12 +57,16 @@ function promptUser() {
             },
             
         ])
-        .then((answers)) => {
+        .then((answers) => {
             genLogo(
                 answers.text,
                 answers.textColor,
                 answers.shape,
                 answers.shapeColor
             );
-        }
+            console.log("Generated logo.svg");
+        });
 }
+
+// Initializing the app
+promptUser();
