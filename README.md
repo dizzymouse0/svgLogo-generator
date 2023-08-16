@@ -14,3 +14,6 @@ Next, enter:;
 node index.js
 
 This starts the application where you will be presented with four prompts. Once complete, your SVG image will be generated.
+
+To test, enter:
+npx jest
