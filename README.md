@@ -1,5 +1,9 @@
 # SVG Logo Generator
 
+video: https://watch.screencastify.com/v/y89I9MXiA9UirApIx4Ei
+
+repo: https://github.com/dizzymouse0/svgLogo-generator
+
 ## Description
 
 A Node.js command-line application that takes in user input to generate a logo and save it as an SVG file.

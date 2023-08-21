@@ -1,6 +1,6 @@
-<!--logo dimensions, color, and text size-->
+
       <svg xmlns="http://www.w3.org/2000/svg" width="300" height="225">
-        <rect x="50" y="50" width="200" height="200" fill="silver" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60" fill="blue">let</text>
+        <rect x="50" y="50" width="200" height="200" fill="teal" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60" fill="red">MAZ</text>
       </svg>
     
