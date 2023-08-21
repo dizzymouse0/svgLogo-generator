@@ -17,3 +17,8 @@ This starts the application where you will be presented with four prompts. Once 
 
 To test, enter:
 npx jest
+
+#### Credits
+w3 tutorials
+Class examples
+MDN docs
