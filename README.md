@@ -23,6 +23,6 @@ To test, enter:
 npx jest
 
 #### Credits
-w3 tutorials
-Class examples
+w3 tutorials,
+Class examples,
 MDN docs
